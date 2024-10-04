@@ -1,13 +1,10 @@
 ## Hi, I'm Syed Abdul Ahad 👋
 
+## Data Analysis & Financial Modeling | Strategic Problem-Solving | Stakeholder Management & Communication | Business Process Improvement
+
 <div align="center">
   <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="600"/>
 </div>
-
-### Top Skills:
-- **Data-Driven Decision Making**
-- **Financial & Business Modeling**
-- **Process Improvement & Strategic Analysis**
 
 ---
 
@@ -17,12 +14,17 @@ With hands-on experience in financial modeling, data analysis, and strategic dec
 
 ---
 
-### Skills & Expertise
+### How My Experiences Can Help Your Company
 
-#### 🔍 **Top Skills**  
-- **Data-Driven Decision Making**  
-- **Financial & Business Modeling**  
-- **Process Improvement & Strategic Analysis**  
+#### <img src="https://img.icons8.com/office/40/000000/money-bag.png" width="25"/> **Blue Bells Technical Services** | Financial Analyst Intern
+At Blue Bells, I improved financial reporting processes and streamlined operational efficiency. My experience in building and refining financial models, combined with optimizing workflows, has equipped me to deliver valuable financial insights that aid in strategic decision-making. I can help your company refine its financial processes, improve reporting accuracy, and enhance decision-making frameworks.
+
+#### <img src="https://img.icons8.com/office/40/000000/accounting.png" width="25"/> **Metro Tax Solutions** | Staff Accountant Intern
+In my role as a Staff Accountant Intern, I collaborated with multi-disciplinary teams to deliver exceptional client services and ensure compliance with accounting standards. My experience in managing client portfolios and analyzing financial data can help your company improve client relations, ensure compliance, and implement effective tax strategies that contribute to business growth.
+
+#### <img src="https://img.icons8.com/color/48/000000/business-report.png" width="25"/> **Cambrian College** | Research Associate
+As a Research Associate, I led competitive market analyses that directly contributed to strategic business decisions. By gathering, analyzing, and presenting actionable insights, I supported business development efforts and provided clarity on market positioning. I can assist your company in identifying growth opportunities, managing risks, and improving overall business strategies through comprehensive market research.
+
 
 #### 💻 **Tools & Technologies**  
 <div align="center">
@@ -30,14 +32,12 @@ With hands-on experience in financial modeling, data analysis, and strategic dec
   <img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png"/>
-
 </div>
 
 - **Excel**: Advanced skills in financial modeling, pivot tables, VLOOKUP, and complex financial functions.
 - **Power BI**: Creating interactive and insightful dashboards to track performance metrics.
 - **Tableau**: Building data visualizations to provide clear insights into business data.
 - **SQL**: Querying, manipulating, and analyzing data from relational databases.
-
 
 #### 🧠 **Consulting & Business Skills**  
 - **Business Process Improvement**: Identifying inefficiencies and implementing strategies to optimize processes and improve operations.
@@ -54,4 +54,5 @@ I'm currently looking for opportunities where I can leverage my skills in **Fina
 
 - [LinkedIn](https://www.linkedin.com/in/syed-abdul-ahad19)
 - [Portfolio](https://syedabdulahad1910.github.io)
+
 
