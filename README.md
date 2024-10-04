@@ -1,8 +1,15 @@
 ## Hi, I'm Syed Abdul Ahad 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="600"/>
 </div>
+
+### Top Skills:
+- **Data-Driven Decision Making**
+- **Financial & Business Modeling**
+- **Process Improvement & Strategic Analysis**
+
+---
 
 Welcome to my GitHub! I’m a versatile **Analyst** with a strong background in **Financial Analysis**, **Business Process Improvement**, and **Strategic Consulting**. I specialize in turning data into actionable insights to help organizations optimize performance and drive growth.
 
@@ -12,14 +19,27 @@ With hands-on experience in financial modeling, data analysis, and strategic dec
 
 ### Skills & Expertise
 
-#### 🔍 **Analytical & Technical Skills**
-- **Data Analysis**: Transforming complex datasets into meaningful insights that support data-driven decision-making.
-- **Financial Modeling**: Building financial models to evaluate performance, forecast results, and drive financial strategies.
-- **Data Visualization**: Crafting interactive dashboards using **Power BI** and **Tableau** to present key performance indicators.
-- **SQL**: Proficient in querying databases for extracting and analyzing large sets of data.
-- **Advanced Excel**: Expertise in Excel for financial modeling, analysis, and reporting, with proficiency in functions, macros, and pivot tables.
+#### 🔍 **Top Skills**  
+- **Data-Driven Decision Making**  
+- **Financial & Business Modeling**  
+- **Process Improvement & Strategic Analysis**  
 
-#### 🧠 **Consulting & Business Skills**
+#### 💻 **Tools & Technologies**  
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"/>  
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+</div>
+
+- **Excel**: Advanced skills in financial modeling, pivot tables, VLOOKUP, and complex financial functions.
+- **Power BI**: Creating interactive and insightful dashboards to track performance metrics.
+- **Tableau**: Building data visualizations to provide clear insights into business data.
+- **SQL**: Querying, manipulating, and analyzing data from relational databases.
+- **Python**: Basic proficiency in data analysis and automation tasks.
+
+#### 🧠 **Consulting & Business Skills**  
 - **Business Process Improvement**: Identifying inefficiencies and implementing strategies to optimize processes and improve operations.
 - **Strategic Analysis**: Providing insights through competitive analysis, market research, and business strategy development.
 - **Client Engagement**: Managing relationships with clients, collaborating to deliver tailored solutions, and ensuring satisfaction.
@@ -28,18 +48,10 @@ With hands-on experience in financial modeling, data analysis, and strategic dec
 
 ---
 
-### Tools & Technologies
-
-- **Power BI**: Creating interactive and insightful dashboards to track performance metrics.
-- **Tableau**: Building data visualizations to provide clear insights into business data.
-- **SQL**: Querying, manipulating, and analyzing data from relational databases.
-- **Microsoft Excel**: Advanced skills in financial modeling, pivot tables, VLOOKUP, and complex financial functions.
-- **Microsoft Office Suite**: Proficient in Word, PowerPoint, and Outlook for communication, reporting, and presentations.
-
----
-
 ### Let's Connect
+
 I'm currently looking for opportunities where I can leverage my skills in **Financial Analysis**, **Business Analysis**, or **Consulting** to drive business results. Feel free to explore my projects and reach out for collaboration or potential opportunities.
 
 - [LinkedIn](https://www.linkedin.com/in/syed-abdul-ahad19)
-- [Portfolio](https://syedabdulahad1910.github.io/SyedAbdulAhad1910-ZeeshaanSyedAbdulAhad.github.io)
+- [Portfolio](https://syedabdulahad1910.github.io)
+
