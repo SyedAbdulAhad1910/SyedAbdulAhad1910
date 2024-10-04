@@ -30,14 +30,14 @@ With hands-on experience in financial modeling, data analysis, and strategic dec
   <img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
   <img src="https://img.icons8.com/color/48/000000/sql.png"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+
 </div>
 
 - **Excel**: Advanced skills in financial modeling, pivot tables, VLOOKUP, and complex financial functions.
 - **Power BI**: Creating interactive and insightful dashboards to track performance metrics.
 - **Tableau**: Building data visualizations to provide clear insights into business data.
 - **SQL**: Querying, manipulating, and analyzing data from relational databases.
-- **Python**: Basic proficiency in data analysis and automation tasks.
+
 
 #### 🧠 **Consulting & Business Skills**  
 - **Business Process Improvement**: Identifying inefficiencies and implementing strategies to optimize processes and improve operations.
