@@ -1,4 +1,9 @@
 ## Hi, I'm Syed Abdul Ahad 👋
+
+<div align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600"/>
+</div>
+
 Welcome to my GitHub! I’m a versatile **Analyst** with a strong background in **Financial Analysis**, **Business Process Improvement**, and **Strategic Consulting**. I specialize in turning data into actionable insights to help organizations optimize performance and drive growth.
 
 With hands-on experience in financial modeling, data analysis, and strategic decision-making, I have the technical and business skills to solve complex business problems. I'm proficient in tools like **SQL**, **Excel**, **Power BI**, and **Tableau** to analyze data and deliver value to organizations.
