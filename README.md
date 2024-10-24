@@ -1,6 +1,6 @@
 ## Hi, I'm Syed Abdul Ahad 👋
 
-## Data Analysis & Financial Modeling | Strategic Problem-Solving | Stakeholder Management & Communication | Business Process Improvement
+## Business Analyst & Financial Analyst | Strategic Problem-Solving | Stakeholder Management & Communication | Business Process Improvement
 
 <div align="center">
   <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="600"/>
