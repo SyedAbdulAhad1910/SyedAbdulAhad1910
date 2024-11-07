@@ -1,6 +1,6 @@
 ## Hi, I'm Syed Abdul Ahad 👋
 
-## Business Analyst & Financial Analyst | Strategic Problem-Solving | Stakeholder Management & Communication | Business Process Improvement
+## Business Analyst & Financial Analyst | Strategic Problem-Solving | Data-Driven Insights
 
 <div align="center">
   <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="600"/>
@@ -8,25 +8,47 @@
 
 ---
 
-Welcome to my GitHub! I’m a versatile **Analyst** with a strong background in **Financial Analysis**, **Business Process Improvement**, and **Strategic Consulting**. I specialize in turning data into actionable insights to help organizations optimize performance and drive growth.
-
-With hands-on experience in financial modeling, data analysis, and strategic decision-making, I have the technical and business skills to solve complex business problems. I'm proficient in tools like **SQL**, **Excel**, **Power BI**, and **Tableau** to analyze data and deliver value to organizations.
+With a strong foundation in financial analysis, business process improvement, and consulting, I specialize in transforming data into actionable insights. Skilled in SQL, Excel, Power BI, and Tableau, I strive to help organizations optimize performance and drive growth.
 
 ---
 
-### How My Experiences Can Help Your Company
+### Selected Projects in Financial Analysis and Data Visualization
 
-#### <img src="https://img.icons8.com/office/40/000000/money-bag.png" width="25"/> **Blue Bells Technical Services** | Financial Analyst Intern
-At Blue Bells, I improved financial reporting processes and streamlined operational efficiency. My experience in building and refining financial models, combined with optimizing workflows, has equipped me to deliver valuable financial insights that aid in strategic decision-making. I can help your company refine its financial processes, improve reporting accuracy, and enhance decision-making frameworks.
+#### Financial Dashboard for Monthly Analysis
+Utilized SQL and Power BI to create a comprehensive financial dashboard tracking monthly performance indicators. This project offers real-time insights into financial health, supporting informed decision-making.
+ 
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Financial_analysis_project.jpg.png-C7sBsngR4Y4k3oeiXcRzMMKX2mDdUl.png" alt="Financial Statement Analysis">
 
-#### <img src="https://img.icons8.com/office/40/000000/accounting.png" width="25"/> **Metro Tax Solutions** | Staff Accountant Intern
-In my role as a Staff Accountant Intern, I collaborated with multi-disciplinary teams to deliver exceptional client services and ensure compliance with accounting standards. My experience in managing client portfolios and analyzing financial data can help your company improve client relations, ensure compliance, and implement effective tax strategies that contribute to business growth.
+---
 
-#### <img src="https://img.icons8.com/color/48/000000/business-report.png" width="25"/> **Cambrian College** | Research Associate
-As a Research Associate, I led competitive market analyses that directly contributed to strategic business decisions. By gathering, analyzing, and presenting actionable insights, I supported business development efforts and provided clarity on market positioning. I can assist your company in identifying growth opportunities, managing risks, and improving overall business strategies through comprehensive market research.
+#### Customer Churn Analysis
+Analyzed customer data using SQL and Tableau to identify trends in customer retention, with insights that guide retention strategies and reduce churn.
 
+**[https://github.com/SyedAbdulAhad1910/Customer-Churn-Project](#)**  
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Customer_churn.jpg.png-lOlNaHpqmuOqbOogoyFy6zmNP3iYeh.png" alt="Customer Churn Project">
 
-#### 💻 **Tools & Technologies**  
+---
+
+#### Automated Bank Loan Reporting
+Developed an automated reporting system for loan data to streamline financial processes. Leveraging SQL and Excel, I improved accuracy and reduced analysis time for more efficient financial reporting.
+
+**[https://github.com/SyedAbdulAhad1910/Bank-Loan-Report](#)**  
+<img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bank_loan_project.jpg.png-apULay0gtefeEBpVgmZ3K15ck2RsD0.png" alt="Bank Loan Report Project">
+
+---
+
+### How I Can Contribute to Your Company
+
+With my experience and skills, I can make a meaningful impact on your organization by:
+- **Improving Financial Reporting and Efficiency**: By implementing data-driven processes and leveraging tools like Power BI, SQL, and Excel, I can help streamline financial reporting, reduce manual workload, and increase accuracy in financial analyses.
+- **Providing Actionable Insights**: My ability to analyze complex datasets and transform them into clear, actionable insights ensures that decision-makers have the information they need to drive business growth.
+- **Enhancing Business Processes**: With a focus on business process improvement, I can identify operational inefficiencies and optimize workflows to enhance productivity and support strategic goals.
+
+I’m committed to leveraging my technical expertise and strategic mindset to add value to your team.
+
+---
+
+### 💻 **Tools & Technologies**  
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"/>  
   <img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
@@ -35,22 +57,15 @@ As a Research Associate, I led competitive market analyses that directly contrib
 </div>
 
 - **Excel**: Advanced skills in financial modeling, pivot tables, VLOOKUP, and complex financial functions.
-- **Power BI**: Creating interactive and insightful dashboards to track performance metrics.
+- **Power BI**: Creating interactive dashboards to track performance metrics.
 - **Tableau**: Building data visualizations to provide clear insights into business data.
 - **SQL**: Querying, manipulating, and analyzing data from relational databases.
-
-#### 🧠 **Consulting & Business Skills**  
-- **Business Process Improvement**: Identifying inefficiencies and implementing strategies to optimize processes and improve operations.
-- **Strategic Analysis**: Providing insights through competitive analysis, market research, and business strategy development.
-- **Client Engagement**: Managing relationships with clients, collaborating to deliver tailored solutions, and ensuring satisfaction.
-- **Project Management**: Coordinating cross-functional teams to achieve business objectives and ensure timely delivery of projects.
-- **Stakeholder Management**: Effectively communicating with and managing expectations of stakeholders across all levels.
 
 ---
 
 ### Let's Connect
 
-I'm currently looking for opportunities where I can leverage my skills in **Financial Analysis**, **Business Analysis**, or **Consulting** to drive business results. Feel free to explore my projects and reach out for collaboration or potential opportunities.
+I'm currently looking for **Financial Analyst** and **Business Analyst** roles where I can leverage my skills to drive data-driven business results. Feel free to explore my projects and reach out for collaboration or potential opportunities.
 
 - [LinkedIn](https://www.linkedin.com/in/syed-abdul-ahad19)
 - [Portfolio](https://syedabdulahad1910.github.io)
